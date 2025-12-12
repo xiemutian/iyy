@@ -1,0 +1,11 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "A simple static HTML site",
+  "scripts": {
+    "build": "echo \"No build step\""
+  },
+  "keywords": ["static", "html"],
+  "author": "",
+  "license": "MIT"
+}
