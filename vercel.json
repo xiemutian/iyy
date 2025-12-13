@@ -1,8 +1,7 @@
 {
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
+  "rewrites": [],
+  "redirects": [],
+  "headers": [],
+  "cleanUrls": false,
+  "trailingSlash": false
 }
